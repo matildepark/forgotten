@@ -1,6 +1,6 @@
 # Forgotten
 
-[Forgotten](https://sophiapark.itch.io/forgotten) is a Twine interactive created by [Sophia Park](http://sophiapark.ca), and [Arielle Grimes](http://www.ariellegrimes.com).
+[Forgotten](https://aetherinteractive.itch.io/forgotten) is a Twine interactive created by [Matilde Park](https://matildepark.ca), and [Arielle Grimes](http://www.ariellegrimes.com).
 
 # Source code
 
